@@ -2,7 +2,7 @@
 My Essential Content for MacOS
 
 ## Terminal
-* [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm
+* [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. Tmux built in.
 * [oh-my-zsh](https://ohmyz.sh/) - oh-my-zsh is an open source, community-driven framework for managing your Zsh configuration.
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh theme of choice.
 
