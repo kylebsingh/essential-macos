@@ -11,7 +11,7 @@ alias fresh = "clear && printf '\e[3J'" # preferred clear
 alias ll = "ls - FGlAhp"
 ```
 
-## Utility Apps
+## Utilities
 * [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows’s “alt-tab” window switcher to MacOS.
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - Powerful keep-awake utility in the menubar.
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Per-application volume control to replace the existing sound menubar UI/UX.
