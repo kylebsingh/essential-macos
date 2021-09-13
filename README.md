@@ -7,8 +7,8 @@ My Essential Content for MacOS
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh theme of choice.
 
 ```sh
-alias fresh = "clear && printf '\e[3J'" # preferred clear
-alias ll = "ls - FGlAhp"
+alias fresh="clear && printf '\e[3J'"
+alias ll="ls - FGlAhp"
 ```
 
 ## Utilities
