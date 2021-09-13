@@ -21,9 +21,9 @@ alias ll = "ls - FGlAhp"
 * [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app for MacOS.
 
 ## Applications
+* [Discord](https://discord.com/download) - Discord is a VoIP, instant messaging and digital distribution platform.
 * [Firefox](https://www.mozilla.org/en-CA/firefox/products/) - Free and open-source web browser using Gecko rendering engine.
 * [Spotify](https://www.spotify.com/us/download/) - Spotify is a digital music, podcast, and video service.
 * [Stremio](https://www.stremio.com/) - Movies, TV shows, live TV or web channels; find all this on Stremio.
-* [Discord](https://discord.com/download) - Discord is a VoIP, instant messaging and digital distribution platform.
 * [WhatsApp](https://www.whatsapp.com/download/?lang=en) - WhatsApp is a centralized instant messaging and voice-over-IP service.
 
