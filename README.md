@@ -16,7 +16,7 @@ alias ll="ls - FGlAhp"
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - Powerful keep-awake utility in the menubar.
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Per-application volume control to replace the existing sound menubar UI/UX.
 * [BoringOldMenuBar](https://www.publicspace.net/BoringOldMenuBar/) - The transparent menubar for BigSur.
-* [Dozer](https://github.com/Mortennn/Dozer) - Hide menubar icons to give your Mac a cleaner look.
+* [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hide menubar icons to give your Mac a cleaner look.
 * [Maccy](https://github.com/p0deje/Maccy) - Maccy is a lightweight clipboard manager for MacOS.
 * [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app for MacOS.
 
