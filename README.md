@@ -23,6 +23,7 @@ alias ll="ls - FGlAhp"
 ## Applications
 * [Discord](https://discord.com/download) - Discord is a VoIP, instant messaging and digital distribution platform.
 * [Firefox](https://www.mozilla.org/en-CA/firefox/products/) - Free and open-source web browser using Gecko rendering engine.
+* [Notion](https://www.notion.so/) - Notion is an application that provides components such as notes, databases, kanban boards, wikis, calendars and reminders.
 * [Spotify](https://www.spotify.com/us/download/) - Spotify is a digital music, podcast, and video service.
 * [Stremio](https://www.stremio.com/) - Movies, TV shows, live TV or web channels; find all this on Stremio.
 * [WhatsApp](https://www.whatsapp.com/download/?lang=en) - WhatsApp is a centralized instant messaging and voice-over-IP service.
